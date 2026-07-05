@@ -47,7 +47,12 @@ Type a message on one device and send it. The message will appear on the connect
 ## 📄 Conclusion
 
 This project demonstrates Bluetooth communication between two Android devices using a chat application.
-<video controls src="working demo-1.mp4" title="Title"></video>
+
+
+
+https://github.com/user-attachments/assets/e92cc4ea-1bc3-4eb6-916d-7a6ee9cf6404
+
+
 
 ## 👤 Author
 
