@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bluetooth Chat</string>
+    <string name="bluetooth_off">Bluetooth is OFF</string>
+    <string name="bluetooth_on">Bluetooth is ON</string>
+    <string name="scan_devices">Scan Devices</string>
+    <string name="paired_devices">Paired Devices</string>
+    <string name="no_devices">No devices found</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="send">Send</string>
+    <string name="type_message">Type a message...</string>
+</resources>
